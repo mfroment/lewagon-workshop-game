@@ -50,3 +50,8 @@ scoop install nvm
 nvm install 8
 nvm use 8.16.2
 ```
+
+## Ressources
+[Presentation Slides](https://docs.google.com/presentation/d/17QS3o70Y6FCOm2U7rNPkgPJXa0rFGM8tjKBzQ6-23s0/)
+
+[Samples](https://brunni132.github.io/vdp16-samples/)
